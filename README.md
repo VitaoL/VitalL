@@ -4,8 +4,8 @@
 
 ### contato
 
-telefone: (31)98821-1146
-email: victor.lustosacp@gmail.com
+- telefone: (31)98821-1146
+- email: victor.lustosacp@gmail.com
 
 ### About me
 
