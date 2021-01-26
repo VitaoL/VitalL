@@ -8,7 +8,7 @@ I'm a {backend and frontend} developer junior!! ready to start my carrer!!
 
 ### Languages anD Tools
 
-[![javaScript Badge](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?style=flat-square&llogoColor=white&width=small)](100x20)
+[![javaScript Badge](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png =100x20?style=flat-square&llogoColor=white)]()
 
 ### contato
 
