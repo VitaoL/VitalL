@@ -5,9 +5,11 @@
 ### About me
 
 I'm a {backend and frontend} developer junior!! ready to start my carrer!!
-- 20 years old, brazilian living in belo horizonte;
+- 24 years old, brazilian living in belo horizonte;
 - Currently studying a Full Stack Development course at Trybe;
-- Looking  for first opportunity as developer;
+- 1 year of experience in Front-End at SambaTech;
+- Looking  for more opportunity as developer;
+- Attending graduation school in Ciencia da Computação;
 
 ### Languages and Tools
 <div>
